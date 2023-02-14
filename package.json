@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "chai": "^4.3.7",
+    "jquery": "^3.6.3"
+  },
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  },
+  "name": "justinxochitecatl",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrxochitecatl/week-10-"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mrxochitecatl/week-10/issues"
+  },
+  "homepage": "https://github.com/Mrxochitecatl/week-10#readme"
+}
